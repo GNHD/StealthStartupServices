@@ -3,7 +3,9 @@ Implement a crucial  component of our marketplace: a filter service that helps u
 
 # Setup Instructions
 # Clone the repository
+
 git clone https://github.com/StealthStartupServices
+
 cd StealthStartupServices
 
 # API DOCUMENTATION
